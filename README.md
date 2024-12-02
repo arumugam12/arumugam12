@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arumugam12&label=Profile%20views&color=0e75b6&style=flat" alt="arumugam12" /> </p>
 
-<p align="left"> <a href="https://twitter.com/eren_yeager_92" target="blank"><img src="https://img.shields.io/twitter/follow/eren_yeager_92?logo=twitter&style=for-the-badge" alt="eren_yeager_92" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **JavaScript, Node JS, React JS**
